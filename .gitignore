@@ -1,0 +1,9 @@
+*.swo
+*.swp
+
+.pdm-python
+__pycache__/
+dist
+venv
+.venv
+css_bundler_conf.py
